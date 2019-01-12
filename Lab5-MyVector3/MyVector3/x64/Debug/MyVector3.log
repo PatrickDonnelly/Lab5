@@ -1,0 +1,4 @@
+﻿  MyVector3.cpp
+c:\users\c00236160\desktop\lab5-vector3-patrickdonnelly-master\18-lab5-vector3-patrickdonnelly-master\myvector3\myvector3.cpp(211): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\c00236160\desktop\lab5-vector3-patrickdonnelly-master\18-lab5-vector3-patrickdonnelly-master\myvector3\myvector3.cpp(211): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+  MyVector3.vcxproj -> C:\Users\c00236160\Desktop\Lab5-vector3-PatrickDonnelly-master\18-lab5-vector3-PatrickDonnelly-master\x64\Debug\MyVector3.exe
